@@ -1,0 +1,15 @@
+id: A15DB341E
+title: 'MSV 5,00: Uttaragrantha 1'
+type: translation
+pechas:
+- I056D4010
+- IFAB90B85
+source_metadata:
+  languages:
+  - bo
+  datatype: PlainText
+  created_at: 2023-02-10 00:11:35.301768
+  last_modified_at: 2023-02-10 00:11:35.301782
+alignment_to_base:
+  I056D4010/9A8E: A743
+  IFAB90B85/C97A: A743
